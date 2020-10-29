@@ -42,7 +42,7 @@ The following client libraries have **GA** support:
 -  `Google Cloud Datastore`_ (`Datastore README`_, `Datastore Documentation`_)
 -  `Google Cloud DLP`_ (`DLP README`_, `DLP Documentation`_)
 -  `Google Cloud Firestore`_ (`Firestore README`_, `Firestore Documentation`_)
--  `Google Cloud IAM`_ (`IAM README`_, `IAM Documentation`_)
+-  `Google Cloud IAM Credentials`_ (`IAM README`_, `IAM Documentation`_)
 -  `Google Cloud IoT`_ (`IoT README`_, `IoT Documentation`_)
 -  `Google Cloud KMS`_ (`KMS README`_, `KMS Documentation`_)
 -  `Google Cloud Memorystore for Redis`_ (`Redis README`_, `Redis Documentation`_)
