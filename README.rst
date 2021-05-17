@@ -269,37 +269,37 @@ Libraries
      - |GA|
      - |PyPI-google-cloud-recpatchaenterprise|
    * - `Analytics Admin <https://github.com/googleapis/python-analytics-admin>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-analytics-admin|
    * - `Analytics Data API <https://github.com/googleapis/python-analytics-data>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-analytics-data|
    * - `Area 120 Tables API <https://github.com/googleapis/python-area120-tables>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-area120-tables|
    * - `Compute Engine <https://github.com/googleapis/python-compute>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-compute|
    * - `DNS <https://github.com/googleapis/python-dns>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-dns|
    * - `Data QnA <https://github.com/googleapis/python-data-qna>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-data-qna|
    * - `Grafeas <https://github.com/googleapis/python-grafeas>`_
-     - |alpha|
+     - |GA|
      - |PyPI-grafeas|
    * - `Resource Manager API <https://github.com/googleapis/python-resource-manager>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-resource-manager|
    * - `Security Command Center <https://github.com/googleapis/python-securitycenter>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-securitycenter|
    * - `Security Scanner <https://github.com/googleapis/python-websecurityscanner>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-websecurityscanner|
    * - `Web Risk <https://github.com/googleapis/python-webrisk>`_
-     - |alpha|
+     - |GA|
      - |PyPI-google-cloud-webrisk|
 
 .. |PyPI-google-cloud-asset| image:: https://img.shields.io/pypi/v/google-cloud-asset.svg
@@ -466,8 +466,8 @@ Libraries
    :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#general-availability
 
 
-.. |alpha| image:: https://img.shields.io/badge/support-alpha-orange.svg
-   :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#alpha-support
+.. |GA| image:: https://img.shields.io/badge/support-ga-gold.svg
+   :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#general-availability
 
 
 Example Applications
