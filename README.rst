@@ -191,82 +191,82 @@ Libraries
      - |ga|
      - |PyPI-google-cloud-vision|
    * - `AI Platform Notebooks <https://github.com/googleapis/python-notebooks>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-notebooks|
    * - `Access Approval <https://github.com/googleapis/python-access-approval>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-access-approval|
    * - `Assured Workloads for Government <https://github.com/googleapis/python-assured-workloads>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-assured-workloads|
    * - `Audit Log <https://github.com/googleapis/python-audit-log>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-audit-log|
    * - `Billing Budget <https://github.com/googleapis/python-billingbudgets>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-billing-budgets|
    * - `Binary Authorization <https://github.com/googleapis/python-binary-authorization>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-binary-authorization|
    * - `Channel Services <https://github.com/googleapis/python-channel>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-channel|
    * - `Data Labeling <https://github.com/googleapis/python-datalabeling>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-datalabeling|
    * - `Dialogflow CX <https://github.com/googleapis/python-dialogflow-cx>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-dialogflow-cx|
    * - `Document Understanding API <https://github.com/googleapis/python-documentai>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-documentai|
    * - `Error Reporting <https://github.com/googleapis/python-error-reporting>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-error-reporting|
    * - `Functions <https://github.com/googleapis/python-functions>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-functions|
    * - `Game Servers <https://github.com/googleapis/python-game-servers>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-game-servers|
    * - `Media Translation <https://github.com/googleapis/python-media-translation>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-media-translation|
    * - `Memorystore for Memcached <https://github.com/googleapis/python-memcache>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-memcache|
    * - `Phishing Protection <https://github.com/googleapis/python-phishingprotection>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-phishing-protection|
    * - `Private Certificate Authority <https://github.com/googleapis/python-security-private-ca>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-private-ca|
    * - `Pub/Sub Lite <https://github.com/googleapis/python-pubsublite>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-pubsublite|
    * - `Recommendations AI <https://github.com/googleapis/python-recommendations-ai>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-recommendations-ai|
    * - `Retail API <https://github.com/googleapis/python-retail>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-retail|
    * - `Runtime Configurator <https://github.com/googleapis/python-runtimeconfig>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-runtimeconfig|
    * - `Service Directory <https://github.com/googleapis/python-service-directory>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-service-directory|
    * - `Talent Solution <https://github.com/googleapis/python-talent>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-talent|
    * - `Transcoder <https://github.com/googleapis/python-video-transcoder>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-video-transcoder|
    * - `Workflows <https://github.com/googleapis/python-workflows>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-workflows|
    * - `reCAPTCHA Enterprise <https://github.com/googleapis/python-recaptcha-enterprise>`_
-     - |beta|
+     - |GA|
      - |PyPI-google-cloud-recpatchaenterprise|
    * - `Analytics Admin <https://github.com/googleapis/python-analytics-admin>`_
      - |alpha|
@@ -462,8 +462,8 @@ Libraries
 .. |ga| image:: https://img.shields.io/badge/support-GA-gold.svg
    :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#general-availability
 
-.. |beta| image:: https://img.shields.io/badge/support-beta-orange.svg
-   :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#beta-support
+.. |GA| image:: https://img.shields.io/badge/support-ga-gold.svg
+   :target: https://github.com/googleapis/google-cloud-python/blob/master/README.rst#general-availability
 
 
 .. |alpha| image:: https://img.shields.io/badge/support-alpha-orange.svg
